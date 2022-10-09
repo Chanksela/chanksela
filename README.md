@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working in Redberry as a BootCamper
-- 🌱 I’m currently learning Laravel/Vue Stack
-- 📫 How to reach me: kakhachankseliani@gmail.com
+- 🔭 I’m a Bootcamper at Redberry
+- 🌱 Learning Laravel/Vue Stack
+- 📫 Contact me on: kakhachankseliani@gmail.com
 
 
