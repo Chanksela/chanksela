@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Web developer mainly using Laravel/Vue.
+I'm a web developer mainly using Laravel/Vue.
 
 * 🌍  I'm based in Tbilisi, Georgia
 * ✉️  You can contact me at [kakhachankseliani@gmail.com](mailto:kakhachankseliani@gmail.com)
