@@ -7,7 +7,7 @@ Web Developer
 Hi, I'm a Fullstack Developer with 2 years of experience working primarily with Laravel, Vue, and Tailwind CSS. I also have some experience with React and Express. Currently, I'm expanding my skills by learning C#. Feel free to check out my projects and connect!
 
 * 🌍  I'm based in Tbilisi, Georgia
-* 🌱 I’m currently learning **C# and .NET**
+// * 🌱 I’m currently learning **C# and .NET** //
 * ✉️ You can contact me at [kakhachankseliani@gmail.com](mailto:kakhachankseliani@gmail.com)
 * 📄 Know about my experiences [https://drive.google.com/file/d/10AN6NK9C0gdRzgyg6XHAIoi1ErrN0JiY/view?usp=sharing](https://drive.google.com/file/d/10AN6NK9C0gdRzgyg6XHAIoi1ErrN0JiY/view?usp=sharing)
 
